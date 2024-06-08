@@ -1,5 +1,5 @@
 +++
 title = "Art Stuff"
-description = "Art Stuff"
+description = "A gallery of stuff"
 sort_by = "date"
 +++
