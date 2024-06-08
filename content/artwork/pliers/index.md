@@ -1,6 +1,6 @@
 +++
 title = "Pliers"
-description = "Recreation of [Mark B Tomlinson](https://infosec.exchange/@mbt3d@fosstodon.org)'s pliers in Blender"
+description = "Recreation of [Mark B Tomlinson](https://fosstodon.org/@mbt3d)'s pliers in Blender"
 date = 2024-05-16
 [taxonomies]
 tags = ["Blender"]
