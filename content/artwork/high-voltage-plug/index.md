@@ -11,6 +11,6 @@ tags = ["Blender"]
 thumbnail = "plug31.webp"
 +++
 
-{{ img(src="plug31.webp", mobile_src="plug31_s.webp", text="High Voltage outlet in Blender") }}
-{{ img(src="ref.webp", mobile_src="ref_s.webp", text="Reference Photo") }}
-{{ img(src="plug31_clay.webp", mobile_src="plug31_clay_s.webp", text="Clay") }}
+{{ img(src="plug31.webp", text="High Voltage outlet in Blender") }}
+{{ img(src="ref.webp", text="Reference Photo") }}
+{{ img(src="plug31_clay.webp", text="Clay") }}

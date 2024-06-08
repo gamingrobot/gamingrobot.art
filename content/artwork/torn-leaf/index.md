@@ -8,5 +8,5 @@ tags = ["Blender"]
 thumbnail = "leaf10.webp"
 +++
 
-{{ img(src="leaf10.webp", mobile_src="leaf_s.webp", text="Torn Leaf") }}
+{{ img(src="leaf10.webp", text="Torn Leaf") }}
 {{ img(src="ref.webp", text="Reference Photo") }}
