@@ -15,8 +15,9 @@ taxonomies = [
 
 [extra]
 menu = [
+    {url = "https://www.artstation.com/gamingrobot", name = "Artstation"},
     {url = "atom.xml", name = "Feed"},
-    {url = "https://creekmore.dev", name = "About Me"},
+    {url = "https://creekmore.dev", name = "About"},
 ]
 
 theme_color = "#0d3a58" # color for browser
