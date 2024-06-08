@@ -1,9 +1,9 @@
 +++
 title = "Genuary 2024"
-description = "[https://genuary.art](https://genuary.art) for 2024 using [VVVV](https://visualprogramming.net)"
+description = "[https://genuary.art](https://genuary.art) for 2024 using [vvvv](https://visualprogramming.net)"
 date = 2024-01-31
 [taxonomies]
-tags = ["VVVV"]
+tags = ["vvvv"]
 [extra]
 thumbnail = "thumb.webp"
 +++
@@ -12,7 +12,7 @@ thumbnail = "thumb.webp"
 
 Day 1 (Particles) and Day 2 (No palettes)
 
-{{ video(src="3-droste.mp4", autoplay=true) }}
+{{ video(src="3-droste.mp4") }}
 
 {{ img(src="3-droste2.webp", alt="orange circles in a spiral shrinking to the center") }}
 
@@ -20,7 +20,7 @@ Day 1 (Particles) and Day 2 (No palettes)
 
 Day 3 (Droste effect)
 
-{{ video(src="4-pixels.mp4", autoplay=true) }}
+{{ video(src="4-pixels.mp4") }}
 
 Day 4 (Pixels)
 
@@ -32,6 +32,6 @@ Day 4 (Pixels)
 
 Day 5 (In the style of Vera Molnár)
 
-{{ video(src="6-screensaver.mp4", autoplay=true) }}
+{{ video(src="6-screensaver.mp4") }}
 
 Day 6 (Screensaver)

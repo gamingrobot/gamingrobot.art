@@ -5,7 +5,7 @@ date = 2023-02-21
 [taxonomies]
 tags = ["Blender"]
 [extra]
-thumbnail = "jelly.webp"
+thumbnail = "thumb.webp"
 +++
 
 {{ video(src="jelly.mp4", autoplay=true) }}
