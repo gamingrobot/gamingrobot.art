@@ -39,7 +39,7 @@ image_format = "webp" # auto, jpg, png, webp
 image_quality = 100 # value in percentage, only for webp and jpg
 
 # https://modelviewer.dev/
-modelviewer = true # set to false to disable loading modelviewer javascript
+modelviewer = false # set to false to disable loading modelviewer javascript
 
 # https://www.goatcounter.com/
 goatcounter = "grbt-art"
