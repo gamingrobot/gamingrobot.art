@@ -16,7 +16,7 @@ taxonomies = [
 [extra]
 menu = [
     {url = "https://www.artstation.com/gamingrobot", name = "Artstation"},
-    {url = "atom.xml", name = "Feed"},
+    {url = "atom.xml", name = "RSS"},
     {url = "https://creekmore.dev", name = "About"},
 ]
 
