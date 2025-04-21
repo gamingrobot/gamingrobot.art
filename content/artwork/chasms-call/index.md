@@ -11,7 +11,7 @@ tags = ["Blender"]
 thumbnail = "chasms_call.webp"
 +++
 
-{{ video(src="chasms_call_small.mp4", autoplay=true) }}
+{{ video(src="chasms_call_small.mp4", autoplay=true, loop=true) }}
 
 Final Submission
 
