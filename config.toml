@@ -20,7 +20,7 @@ menu = [
     {url = "https://creekmore.dev", name = "About"},
 ]
 
-theme_color = "#0d3a58" # color for browser
+theme_color = "#0d314b" # color for browser
 
 author_url = "https://graphics.social/@gamingrobot"
 # cover_image = "img/cover.webp" # cover image on main gallery pages for opengraph and twitter embeds 
