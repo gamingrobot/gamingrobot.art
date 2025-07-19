@@ -5,7 +5,7 @@ date = 2024-05-16
 [taxonomies]
 tags = ["Blender"]
 [extra]
-thumbnail = "pliers12.webp"
+thumbnail = "pliers12_thumb.webp"
 +++
 
 {{ img(src="pliers12.webp", text="Pliers in Blender") }}
