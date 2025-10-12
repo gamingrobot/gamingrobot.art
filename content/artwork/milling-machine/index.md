@@ -1,0 +1,14 @@
++++
+title = "Milling Machine"
+description = """Milling machine rendered with EEVEE and line art rendered with Malt"""
+date = 2025-10-12
+[taxonomies]
+tags = ["Blender"]
+[extra]
+thumbnail = "gamingrobot_mill.webp"
++++
+
+{{ video(src="gamingrobot_mill.mp4", autoplay=true, loop=true) }}
+
+{{ img(src="gamingrobot_mill.webp", alt="3D Render of Milling Machine") }}
+{{ img(src="gamingrobot_mill_clay.webp", alt="Clay Render") }}
