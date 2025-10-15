@@ -8,7 +8,7 @@ tags = ["Blender"]
 thumbnail = "gamingrobot_mill.webp"
 +++
 
-{{ video(src="gamingrobot_mill.mp4", autoplay=true, loop=true) }}
+{{ video(src="gamingrobot_mill_halfres.mp4", autoplay=true, loop=true) }}
 
-{{ img(src="gamingrobot_mill.webp", alt="3D Render of Milling Machine") }}
+{{ img(src="gamingrobot_mill_halfres.webp", alt="3D Render of Milling Machine") }}
 {{ img(src="gamingrobot_mill_clay.webp", alt="Clay Render") }}
