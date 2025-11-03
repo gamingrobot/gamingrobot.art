@@ -1,6 +1,7 @@
 +++
 title = "Milling Machine"
-description = """Milling machine rendered with EEVEE and line art rendered with Malt"""
+description = """Milling machine rendered with EEVEE and line art rendered with Malt/Cider  
+[Breakdown](https://doingstuff.dev/posts/blender-milling-machine-breakdown)"""
 date = 2025-10-12
 [taxonomies]
 tags = ["Blender"]
