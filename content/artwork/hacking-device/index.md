@@ -11,6 +11,6 @@ thumbnail = "device35.webp"
 {{ video(src="hacking-device.mp4", autoplay=true, loop=true) }}
 
 {{ img(src="device35.webp", text="Malt Render" alt="3D Render of a hacking device in-front of cables") }}
-{{ img(src="device48_eevee.webp", text="EEVEE Render" alt="3D Render of a hacking device in-front of cables") }}
+{{ img(src="device52_cider.webp", text="EEVEE Render with Cider Line Art" alt="3D Render of a hacking device in-front of cables") }}
 {{ img(src="ref.webp", text="Reference Photo") }}
 {{ img(src="device35_viewport.webp", text="Clay") }}
