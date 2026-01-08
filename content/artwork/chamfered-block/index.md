@@ -13,6 +13,6 @@ tags = ["Blender"]
 thumbnail = "chamf28.webp"
 +++
 
-{{ img(src="chamf28.webp", text="Chamfered Block in Blender") }}
+{{ img(src="gamingrobot-chamf29.webp", text="Chamfered Block in Blender") }}
 {{ img(src="ref.webp", text="Reference Photo") }}
-{{ img(src="clay.webp", text="Clay") }}
+{{ img(src="gamingrobot-clay.webp", text="Clay") }}
