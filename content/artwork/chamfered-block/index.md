@@ -10,7 +10,7 @@ date = 2024-06-02
 [taxonomies]
 tags = ["Blender"]
 [extra]
-thumbnail = "chamf28.webp"
+thumbnail = "gamingrobot-chamf29.webp"
 +++
 
 {{ img(src="gamingrobot-chamf29.webp", text="Chamfered Block in Blender") }}
