@@ -11,6 +11,5 @@ jobs:
     steps:
       - name: Trigger Deploy
         run: |
-          set -o pipefail
           curl --fail https://gamingrobot.art/ -X PUT --data "https://github.com/gamingrobot/gamingrobot.art.git"
           curl --fail https://www.gamingrobot.art/ -X PUT --data "https://github.com/gamingrobot/gamingrobot.art.git"
