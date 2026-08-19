@@ -1,0 +1,15 @@
+name: Git Pages
+
+on:
+  push:
+    branches:
+      - pages
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Root Deploy
+        run: curl https://gamingrobot.art/ -X PUT --data "https://github.com/gamingrobot/gamingrobot.art.git"
+      - name: Trigger WWW Deploy
+        run: curl https://www.gamingrobot.art/ -X PUT --data "https://github.com/gamingrobot/gamingrobot.art.git"
